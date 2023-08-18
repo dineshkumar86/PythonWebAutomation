@@ -1,0 +1,93 @@
+06/10/2023 09:14:08 AM - LoginPage - INFO: Element not found with locator: //input[@type='email'] and  locatorType: id
+06/10/2023 09:14:08 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='email'] locatorType: id
+06/10/2023 09:14:11 AM - LoginPage - INFO: Element not found with locator: //input[@type='password'] and  locatorType: id
+06/10/2023 09:14:11 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='password'] locatorType: id
+06/10/2023 09:14:14 AM - LoginPage - INFO: Element not found with locator: //button[contains(text(),'Login')] and  locatorType: name
+06/10/2023 09:14:14 AM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: name
+06/10/2023 09:14:14 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:14:14 AM - LoginTests - INFO: test_t1invalidLogin started
+06/10/2023 09:14:14 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:14:17 AM - LoginPage - INFO: Element not found with locator: //input[@type='email'] and  locatorType: id
+06/10/2023 09:14:17 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='email'] locatorType: id
+06/10/2023 09:14:21 AM - LoginPage - INFO: Element not found with locator: //input[@type='password'] and  locatorType: id
+06/10/2023 09:14:21 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='password'] locatorType: id
+06/10/2023 09:14:24 AM - LoginPage - INFO: Element not found with locator: //button[contains(text(),'Login')] and  locatorType: name
+06/10/2023 09:14:24 AM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: name
+06/10/2023 09:18:52 AM - LoginPage - INFO: Element not found with locator: //input[@type='email'] and  locatorType: id
+06/10/2023 09:18:52 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='email'] locatorType: id
+06/10/2023 09:18:55 AM - LoginPage - INFO: Element not found with locator: //input[@type='password'] and  locatorType: id
+06/10/2023 09:18:55 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='password'] locatorType: id
+06/10/2023 09:18:58 AM - LoginPage - INFO: Element not found with locator: //button[contains(text(),'Login')] and  locatorType: name
+06/10/2023 09:18:58 AM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: name
+06/10/2023 09:18:58 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:18:58 AM - LoginTests - INFO: test_t1invalidLogin started
+06/10/2023 09:18:58 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:19:01 AM - LoginPage - INFO: Element not found with locator: //input[@type='email'] and  locatorType: id
+06/10/2023 09:19:01 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='email'] locatorType: id
+06/10/2023 09:19:04 AM - LoginPage - INFO: Element not found with locator: //input[@type='password'] and  locatorType: id
+06/10/2023 09:19:04 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='password'] locatorType: id
+06/10/2023 09:19:07 AM - LoginPage - INFO: Element not found with locator: //button[contains(text(),'Login')] and  locatorType: name
+06/10/2023 09:19:07 AM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: name
+06/10/2023 09:26:09 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 09:26:09 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 09:26:09 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 09:26:09 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 09:26:09 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 09:26:10 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 09:26:10 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:26:10 AM - LoginTests - INFO: test_t1invalidLogin started
+06/10/2023 09:26:10 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:26:10 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 09:26:10 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 09:26:10 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 09:26:10 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 09:26:10 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 09:26:10 AM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 09:26:59 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:26:59 AM - LoginTests - INFO: test_t1invalidLogin started
+06/10/2023 09:26:59 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:26:59 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 09:26:59 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 09:27:00 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 09:27:00 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 09:27:00 AM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 09:40:20 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 09:40:21 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:40:21 AM - LoginTests - INFO: test_t1invalidLogin started
+06/10/2023 09:40:21 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:40:21 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 09:40:21 AM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 09:52:51 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 09:52:51 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 09:52:51 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 09:52:51 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 09:52:51 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 09:52:52 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 09:52:52 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 09:52:52 AM - LoginTests - INFO: test_t1invalidLogin started
+06/10/2023 09:52:52 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 10:14:31 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 10:14:31 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 10:14:31 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 10:14:32 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 10:14:32 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 10:14:32 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 10:14:32 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+06/10/2023 10:14:32 AM - LoginTests - INFO: test_t1invalidLogin started
+06/10/2023 10:14:32 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#

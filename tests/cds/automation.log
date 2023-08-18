@@ -1,0 +1,120 @@
+06/27/2023 01:41:01 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/27/2023 01:41:02 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/27/2023 01:41:02 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/27/2023 01:41:02 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/27/2023 01:41:02 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/27/2023 01:41:02 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/27/2023 01:41:02 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:41:27 PM - LoginPage - INFO: Element not appeared on the web page
+06/27/2023 01:41:46 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/27/2023 01:41:47 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/27/2023 01:41:49 PM - CdsPage - INFO: Element found with locator: //li[contains(text(),'CDS')] and  locatorType: xpath
+06/27/2023 01:41:50 PM - CdsPage - INFO: Clicked on element with locator: //li[contains(text(),'CDS')] locatorType: xpath
+06/27/2023 01:41:50 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:42:00 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:42:00 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:42:11 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:42:11 PM - CdsPage - INFO: Element found with locator: //span[@class='editbtn-fi editbtn-cds'] and  locatorType: xpath
+06/27/2023 01:42:11 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='editbtn-fi editbtn-cds'] locatorType: xpath
+06/27/2023 01:42:11 PM - CdsPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] and  locatorType: xpath
+06/27/2023 01:42:11 PM - CdsPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] locatorType: xpath
+06/27/2023 01:42:11 PM - CdsPage - INFO: Element found with locator: //span//span[contains(text(),'Select CDS')] and  locatorType: xpath
+06/27/2023 01:42:11 PM - CdsPage - INFO: Clicked on element with locator: //span//span[contains(text(),'Select CDS')] locatorType: xpath
+06/27/2023 01:42:11 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:42:22 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:42:22 PM - CdsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/27/2023 01:42:30 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/27/2023 01:42:30 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:42:41 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:43:01 PM - CdsPage - INFO: Element not found with locator: //span[@class='reset'] and  locatorType: xpath
+06/27/2023 01:43:01 PM - CdsPage - INFO: Cannot click on the element with locator: //span[@class='reset'] locatorType: xpath
+06/27/2023 01:57:22 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/27/2023 01:57:22 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/27/2023 01:57:22 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/27/2023 01:57:22 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/27/2023 01:57:22 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/27/2023 01:57:22 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/27/2023 01:57:22 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:57:49 PM - LoginPage - INFO: Element not appeared on the web page
+06/27/2023 01:57:54 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/27/2023 01:57:55 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/27/2023 01:57:57 PM - CdsPage - INFO: Element found with locator: //li[contains(text(),'CDS')] and  locatorType: xpath
+06/27/2023 01:57:58 PM - CdsPage - INFO: Clicked on element with locator: //li[contains(text(),'CDS')] locatorType: xpath
+06/27/2023 01:57:58 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:58:08 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:58:08 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:58:19 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:58:19 PM - CdsPage - INFO: Element found with locator: //span[@class='editbtn-fi editbtn-cds'] and  locatorType: xpath
+06/27/2023 01:58:19 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='editbtn-fi editbtn-cds'] locatorType: xpath
+06/27/2023 01:58:19 PM - CdsPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] and  locatorType: xpath
+06/27/2023 01:58:20 PM - CdsPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] locatorType: xpath
+06/27/2023 01:58:20 PM - CdsPage - INFO: Element found with locator: //span[@id='select2-comaparablesSearch-container'] and  locatorType: xpath
+06/27/2023 01:58:20 PM - CdsPage - INFO: Clicked on element with locator: //span[@id='select2-comaparablesSearch-container'] locatorType: xpath
+06/27/2023 01:58:20 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:58:30 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:58:30 PM - CdsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/27/2023 01:58:30 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/27/2023 01:58:30 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 01:58:41 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 01:58:41 PM - CdsPage - INFO: Element found with locator: //span[@class='reset'] and  locatorType: xpath
+06/27/2023 01:58:41 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='reset'] locatorType: xpath
+06/27/2023 02:29:58 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/27/2023 02:29:58 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/27/2023 02:29:58 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/27/2023 02:29:58 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/27/2023 02:29:59 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/27/2023 02:29:59 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/27/2023 02:29:59 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:30:24 PM - LoginPage - INFO: Element not appeared on the web page
+06/27/2023 02:30:35 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/27/2023 02:30:36 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/27/2023 02:30:38 PM - CdsPage - INFO: Element found with locator: //li[contains(text(),'CDS')] and  locatorType: xpath
+06/27/2023 02:30:38 PM - CdsPage - INFO: Clicked on element with locator: //li[contains(text(),'CDS')] locatorType: xpath
+06/27/2023 02:30:38 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:30:49 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:30:49 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:30:59 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:30:59 PM - CdsPage - INFO: Element found with locator: //span[@class='editbtn-fi editbtn-cds'] and  locatorType: xpath
+06/27/2023 02:30:59 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='editbtn-fi editbtn-cds'] locatorType: xpath
+06/27/2023 02:30:59 PM - CdsPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] and  locatorType: xpath
+06/27/2023 02:31:00 PM - CdsPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] locatorType: xpath
+06/27/2023 02:31:00 PM - CdsPage - INFO: Element found with locator: //span[@id='select2-comaparablesSearch-container'] and  locatorType: xpath
+06/27/2023 02:31:00 PM - CdsPage - INFO: Clicked on element with locator: //span[@id='select2-comaparablesSearch-container'] locatorType: xpath
+06/27/2023 02:31:00 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:31:10 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:31:10 PM - CdsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/27/2023 02:31:11 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/27/2023 02:31:11 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:31:21 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:31:21 PM - CdsPage - INFO: Element found with locator: //span[@class='reset'] and  locatorType: xpath
+06/27/2023 02:31:21 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='reset'] locatorType: xpath
+06/27/2023 02:33:21 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/27/2023 02:33:21 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/27/2023 02:33:22 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/27/2023 02:33:22 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/27/2023 02:33:22 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/27/2023 02:33:22 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/27/2023 02:33:22 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:33:50 PM - LoginPage - INFO: Element not appeared on the web page
+06/27/2023 02:33:54 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/27/2023 02:33:55 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/27/2023 02:33:57 PM - CdsPage - INFO: Element found with locator: //li[contains(text(),'CDS')] and  locatorType: xpath
+06/27/2023 02:33:58 PM - CdsPage - INFO: Clicked on element with locator: //li[contains(text(),'CDS')] locatorType: xpath
+06/27/2023 02:33:58 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:34:08 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:34:08 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:34:19 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:34:19 PM - CdsPage - INFO: Element found with locator: //span[@class='editbtn-fi editbtn-cds'] and  locatorType: xpath
+06/27/2023 02:34:19 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='editbtn-fi editbtn-cds'] locatorType: xpath
+06/27/2023 02:34:19 PM - CdsPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] and  locatorType: xpath
+06/27/2023 02:34:19 PM - CdsPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] locatorType: xpath
+06/27/2023 02:34:21 PM - CdsPage - INFO: Element found with locator: //span[@id='select2-comaparablesSearch-container'] and  locatorType: xpath
+06/27/2023 02:34:22 PM - CdsPage - INFO: Clicked on element with locator: //span[@id='select2-comaparablesSearch-container'] locatorType: xpath
+06/27/2023 02:34:22 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:34:32 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:34:32 PM - CdsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/27/2023 02:34:32 PM - CdsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/27/2023 02:34:32 PM - CdsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 02:34:43 PM - CdsPage - INFO: Element not appeared on the web page
+06/27/2023 02:34:43 PM - CdsPage - INFO: Element found with locator: //span[@class='reset'] and  locatorType: xpath
+06/27/2023 02:34:44 PM - CdsPage - INFO: Cannot click on the element with locator: //span[@class='reset'] locatorType: xpath

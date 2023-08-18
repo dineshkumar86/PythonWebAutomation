@@ -1,0 +1,348 @@
+06/26/2023 12:15:08 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 12:15:08 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 12:15:08 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 12:15:09 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 12:15:09 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 12:15:09 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 12:15:09 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:15:36 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 12:15:45 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 12:15:46 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 12:15:48 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 12:15:49 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 12:15:52 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:15:53 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:21:20 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 12:21:20 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 12:21:20 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 12:21:21 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 12:21:21 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 12:21:21 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 12:21:21 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:21:50 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 12:21:59 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 12:22:00 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 12:22:02 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 12:22:03 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 12:22:06 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:22:17 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:22:17 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:22:17 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:24:46 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 12:24:47 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 12:24:47 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 12:24:47 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 12:24:47 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 12:24:47 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 12:24:47 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:25:16 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 12:25:26 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 12:25:26 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 12:25:29 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 12:25:30 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 12:25:33 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:25:43 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:25:43 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:25:43 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:25:43 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:25:44 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:25:44 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:25:44 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:26:04 PM - BondsPage - INFO: Element not found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:26:04 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:26:04 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:26:04 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:26:04 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:26:11 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:26:31 PM - BondsPage - INFO: Element not found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:26:31 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:26:31 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:26:57 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:26:57 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:26:57 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:26:57 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:26:57 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:26:57 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:26:57 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:26:59 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:27:02 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:27:05 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:27:06 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:27:26 PM - BondsPage - INFO: Element not found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:27:26 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:27:26 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:27:26 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:27:26 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:27:27 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:27:27 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:27:27 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:27:27 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:27:32 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:27:32 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:27:32 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Element not found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:27:53 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:27:54 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:27:55 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:30:47 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 12:30:47 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 12:30:47 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 12:30:47 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 12:30:47 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 12:30:47 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 12:30:47 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:31:13 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 12:31:27 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 12:31:31 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 12:31:34 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 12:31:34 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 12:31:37 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:31:47 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:31:47 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:31:47 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:31:47 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:31:48 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:31:48 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:31:58 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:31:59 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:31:59 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:31:59 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:31:59 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:31:59 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:32:09 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:32:09 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:32:10 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:32:10 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:32:12 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:32:44 PM - BondsPage - INFO: Element not found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:32:44 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:33:04 PM - BondsPage - INFO: Element not found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:33:04 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:33:04 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:33:15 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:33:15 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:33:15 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:33:15 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:33:15 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:33:15 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:33:26 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:33:26 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:33:26 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:33:28 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:33:29 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:33:29 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:33:32 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:33:52 PM - BondsPage - INFO: Element not found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:33:52 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:33:52 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:34:02 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:34:02 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:34:02 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:34:02 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:34:03 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:34:03 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:34:13 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:34:13 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:34:14 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:34:14 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:34:16 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:34:17 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:34:22 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:34:43 PM - BondsPage - INFO: Element not found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:34:43 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:34:43 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:34:53 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:34:53 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:34:53 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:34:53 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:34:54 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:34:54 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:35:04 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:35:04 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:35:04 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:35:05 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:35:08 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:43:54 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 12:43:54 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 12:43:54 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 12:43:54 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 12:43:54 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 12:43:54 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 12:43:54 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:44:23 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 12:44:32 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 12:44:33 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 12:44:35 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 12:44:36 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 12:44:39 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:44:49 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:44:49 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:44:49 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:44:49 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:44:50 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:44:50 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:45:01 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:45:01 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:45:01 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:45:01 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:45:01 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:45:01 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:45:12 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:45:12 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:45:12 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:45:12 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 12:45:14 PM - BondsPage - INFO: Cannot click on the element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 12:45:14 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:45:24 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:45:44 PM - BondsPage - INFO: Element not found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:45:44 PM - BondsPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:45:44 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:45:53 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:45:53 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:46:03 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:46:03 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:46:03 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:46:03 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:46:03 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:46:03 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:46:14 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:46:14 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:46:14 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:46:16 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[2] and  locatorType: xpath
+06/26/2023 12:46:18 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[2] locatorType: xpath
+06/26/2023 12:46:18 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:46:28 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:46:28 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:46:28 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:46:29 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:46:29 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:46:29 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:46:39 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:46:39 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:46:40 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:46:40 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:46:40 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:46:40 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:46:51 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:46:51 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:46:51 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:46:52 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[3] and  locatorType: xpath
+06/26/2023 12:46:53 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[3] locatorType: xpath
+06/26/2023 12:46:53 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:47:04 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:47:04 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Category')] and  locatorType: xpath
+06/26/2023 12:47:04 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Category')] locatorType: xpath
+06/26/2023 12:47:04 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:47:05 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:47:05 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:47:15 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:47:15 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/26/2023 12:47:15 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/26/2023 12:47:15 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:47:15 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:47:15 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:47:25 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 12:47:26 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'Select Bond')] and  locatorType: xpath
+06/26/2023 12:47:26 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'Select Bond')] locatorType: xpath
+06/26/2023 12:47:27 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[4] and  locatorType: xpath
+06/26/2023 12:47:29 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[4] locatorType: xpath
+06/26/2023 12:47:29 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 12:47:39 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 04:59:01 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 04:59:02 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 04:59:02 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 04:59:02 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 04:59:02 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 04:59:02 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 04:59:02 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 04:59:29 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 04:59:35 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 04:59:36 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 04:59:38 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 04:59:39 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 04:59:42 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 04:59:53 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 04:59:53 PM - BondsPage - INFO: Element found with locator: //span[@class='editbtn-fi editbtn-cds'] and  locatorType: xpath
+06/26/2023 04:59:53 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='editbtn-fi editbtn-cds'] locatorType: xpath
+06/26/2023 04:59:53 PM - BondsPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] and  locatorType: xpath
+06/26/2023 04:59:53 PM - BondsPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/div[1]/span[1]/i[1] locatorType: xpath
+06/26/2023 04:59:53 PM - BondsPage - INFO: Element found with locator: //span//span[contains(text(),'Select Security')] and  locatorType: xpath
+06/26/2023 04:59:53 PM - BondsPage - INFO: Clicked on element with locator: //span//span[contains(text(),'Select Security')] locatorType: xpath
+06/26/2023 04:59:53 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 05:00:04 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 05:00:04 PM - BondsPage - INFO: Element found with locator: //span[@class='select2-results']//ul/li[1] and  locatorType: xpath
+06/26/2023 05:00:04 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='select2-results']//ul/li[1] locatorType: xpath
+06/26/2023 05:00:04 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 05:00:15 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 05:00:15 PM - BondsPage - INFO: Element found with locator: //span[@class='reset'] and  locatorType: xpath
+06/26/2023 05:00:15 PM - BondsPage - INFO: Clicked on element with locator: //span[@class='reset'] locatorType: xpath
+06/26/2023 05:25:48 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 05:25:48 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 05:25:49 PM - LoginPage - INFO: Element not found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 05:25:49 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 05:25:49 PM - LoginPage - INFO: Element not found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 05:25:49 PM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 05:25:49 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 05:25:49 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 05:25:49 PM - LoginPage - INFO: Element not found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 05:25:49 PM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 05:25:51 PM - BondsPage - INFO: Element not found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 05:25:51 PM - BondsPage - INFO: Cannot click on the element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 05:27:46 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 05:27:46 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 05:27:46 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 05:27:46 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 05:27:46 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 05:27:47 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 05:27:47 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 05:28:12 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 05:28:36 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 05:28:36 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 05:28:39 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 05:28:39 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 05:28:45 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'ADVANCED SEARCH')] and  locatorType: xpath
+06/26/2023 05:28:47 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'ADVANCED SEARCH')] locatorType: xpath
+06/26/2023 05:28:47 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 05:28:58 PM - BondsPage - INFO: Element not appeared on the web page
+06/26/2023 05:32:31 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 05:32:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 05:32:32 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 05:32:32 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 05:32:32 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 05:32:32 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 05:32:32 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 05:33:00 PM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 05:33:06 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 05:33:06 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 05:33:09 PM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/26/2023 05:33:09 PM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/26/2023 05:33:13 PM - BondsPage - INFO: Element found with locator: //span[contains(text(),'ADVANCED SEARCH')] and  locatorType: xpath
+06/26/2023 05:33:13 PM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'ADVANCED SEARCH')] locatorType: xpath
+06/26/2023 05:33:13 PM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 05:33:24 PM - BondsPage - INFO: Element not appeared on the web page
+06/27/2023 10:28:04 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/27/2023 10:28:05 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/27/2023 10:28:05 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/27/2023 10:28:05 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/27/2023 10:28:05 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/27/2023 10:28:05 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/27/2023 10:28:05 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 10:28:33 AM - LoginPage - INFO: Element not appeared on the web page
+06/27/2023 10:28:39 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/27/2023 10:28:39 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/27/2023 10:28:42 AM - BondsPage - INFO: Element found with locator: //li[contains(text(),'Bonds')] and  locatorType: xpath
+06/27/2023 10:28:42 AM - BondsPage - INFO: Clicked on element with locator: //li[contains(text(),'Bonds')] locatorType: xpath
+06/27/2023 10:28:45 AM - BondsPage - INFO: Element found with locator: //span[contains(text(),'ADVANCED SEARCH')] and  locatorType: xpath
+06/27/2023 10:28:46 AM - BondsPage - INFO: Clicked on element with locator: //span[contains(text(),'ADVANCED SEARCH')] locatorType: xpath
+06/27/2023 10:28:46 AM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 10:28:57 AM - BondsPage - INFO: Element not appeared on the web page
+06/27/2023 10:29:08 AM - BondsPage - INFO: Element found with locator: //tbody/tr[1]/td[1]/a and  locatorType: xpath
+06/27/2023 10:29:18 AM - BondsPage - INFO: Clicked on element with locator: //tbody/tr[1]/td[1]/a locatorType: xpath
+06/27/2023 10:29:18 AM - BondsPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/27/2023 10:29:29 AM - BondsPage - INFO: Element not appeared on the web page

@@ -1,0 +1,997 @@
+06/10/2023 10:15:30 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 10:15:31 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 10:15:31 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 10:15:31 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 10:15:31 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 10:15:31 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 10:16:02 AM - CompanyPage - INFO: Element not found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 10:16:02 AM - CompanyPage - INFO: Cannot click on the element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 10:16:04 AM - CompanyPage - INFO: Element found with locator: //app-header/div[2]/ul/a[1]/li and  locatorType: xpath
+06/10/2023 10:16:07 AM - CompanyPage - INFO: Cannot click on the element with locator: //app-header/div[2]/ul/a[1]/li locatorType: xpath
+06/10/2023 10:17:45 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 10:17:46 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 10:17:46 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 10:17:46 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 10:17:46 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 10:17:46 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 10:18:19 AM - CompanyPage - INFO: Element not found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 10:18:19 AM - CompanyPage - INFO: Cannot click on the element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 10:18:21 AM - CompanyPage - INFO: Element found with locator: //app-header/div[2]/ul/a[1]/li and  locatorType: xpath
+06/10/2023 10:18:23 AM - CompanyPage - INFO: Cannot click on the element with locator: //app-header/div[2]/ul/a[1]/li locatorType: xpath
+06/10/2023 11:11:14 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 11:11:14 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 11:11:14 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 11:11:15 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 11:11:15 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 11:11:15 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 11:11:44 AM - CompanyPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 11:11:46 AM - CompanyPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 11:11:56 AM - CompanyPage - INFO: Element found with locator: //app-header/div[2]/ul/a[1]/li and  locatorType: xpath
+06/10/2023 11:11:59 AM - CompanyPage - INFO: Clicked on element with locator: //app-header/div[2]/ul/a[1]/li locatorType: xpath
+06/10/2023 01:00:48 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 01:00:48 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 01:00:48 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 01:00:48 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 01:00:49 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 01:00:49 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 01:01:18 PM - LoginPage - INFO: Element not found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 01:01:18 PM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 01:01:28 PM - CompanyPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 01:01:29 PM - CompanyPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 01:01:39 PM - CompanyPage - INFO: Element found with locator: //app-header/div[2]/ul/a[1]/li and  locatorType: xpath
+06/10/2023 01:01:41 PM - CompanyPage - INFO: Clicked on element with locator: //app-header/div[2]/ul/a[1]/li locatorType: xpath
+06/10/2023 01:03:19 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 01:03:19 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 01:03:20 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 01:03:20 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 01:03:20 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 01:03:20 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 01:03:50 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 01:03:52 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 01:04:22 PM - CompanyPage - INFO: Element not found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 01:04:22 PM - CompanyPage - INFO: Cannot click on the element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 01:04:32 PM - CompanyPage - INFO: Element found with locator: //app-header/div[2]/ul/a[1]/li and  locatorType: xpath
+06/10/2023 01:04:46 PM - CompanyPage - INFO: Clicked on element with locator: //app-header/div[2]/ul/a[1]/li locatorType: xpath
+06/10/2023 01:05:52 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/10/2023 01:05:52 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/10/2023 01:05:53 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/10/2023 01:05:53 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/10/2023 01:05:53 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/10/2023 01:05:53 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/10/2023 01:06:25 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 01:06:27 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 01:06:57 PM - CompanyPage - INFO: Element not found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/10/2023 01:06:57 PM - CompanyPage - INFO: Cannot click on the element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/10/2023 01:07:07 PM - CompanyPage - INFO: Element found with locator: //app-header/div[2]/ul/a[1]/li and  locatorType: xpath
+06/10/2023 01:07:13 PM - CompanyPage - INFO: Clicked on element with locator: //app-header/div[2]/ul/a[1]/li locatorType: xpath
+06/19/2023 04:48:31 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/19/2023 04:48:31 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/19/2023 04:48:31 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/19/2023 04:48:31 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/19/2023 04:48:31 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/19/2023 04:48:31 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/19/2023 04:48:31 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 04:49:06 PM - LoginPage - INFO: Element not appeared on the web page
+06/19/2023 04:49:07 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/19/2023 04:49:07 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/19/2023 04:49:16 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep5-container'] and  locatorType: xpath
+06/19/2023 04:49:16 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep5-container'] locatorType: xpath
+06/19/2023 04:49:17 PM - CompanyPage - INFO: Element found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/19/2023 04:49:18 PM - CompanyPage - INFO: Sent data on element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/19/2023 04:49:18 PM - CompanyPage - INFO: Element found with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//img[1] and  locatorType: xpath
+06/19/2023 04:49:19 PM - CompanyPage - INFO: Cannot click on the element with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//img[1] locatorType: xpath
+06/19/2023 04:49:19 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 04:49:50 PM - CompanyPage - INFO: Element not appeared on the web page
+06/19/2023 04:49:56 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/19/2023 04:49:56 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/19/2023 04:51:10 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/19/2023 04:51:10 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/19/2023 04:51:10 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/19/2023 04:51:11 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/19/2023 04:51:11 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/19/2023 04:51:11 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/19/2023 04:51:11 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 04:51:51 PM - LoginPage - INFO: Element not appeared on the web page
+06/19/2023 04:51:51 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/19/2023 04:51:51 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/19/2023 04:51:54 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep5-container'] and  locatorType: xpath
+06/19/2023 04:51:54 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep5-container'] locatorType: xpath
+06/19/2023 04:51:54 PM - CompanyPage - INFO: Element found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/19/2023 04:51:55 PM - CompanyPage - INFO: Sent data on element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/19/2023 04:52:15 PM - CompanyPage - INFO: Element not found with locator: //li[@id='select2-companyStep5-result-waib-USD'] and  locatorType: xpath
+06/19/2023 04:52:15 PM - CompanyPage - INFO: Cannot click on the element with locator: //li[@id='select2-companyStep5-result-waib-USD'] locatorType: xpath
+06/19/2023 04:52:15 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 04:52:47 PM - CompanyPage - INFO: Element not appeared on the web page
+06/19/2023 04:57:54 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/19/2023 04:57:54 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/19/2023 04:57:54 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/19/2023 04:57:54 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/19/2023 04:57:54 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/19/2023 04:57:54 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/19/2023 04:57:54 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 04:58:40 PM - LoginPage - INFO: Element appeared on the web page
+06/19/2023 04:58:40 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/19/2023 04:58:40 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/19/2023 04:58:43 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep5-container'] and  locatorType: xpath
+06/19/2023 04:58:43 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep5-container'] locatorType: xpath
+06/19/2023 04:58:43 PM - CompanyPage - INFO: Element found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/19/2023 04:58:44 PM - CompanyPage - INFO: Sent data on element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/19/2023 04:58:44 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(), 'USD')] and  locatorType: xpath
+06/19/2023 04:58:45 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(), 'USD')] locatorType: xpath
+06/19/2023 04:58:45 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 04:59:16 PM - CompanyPage - INFO: Element not appeared on the web page
+06/19/2023 04:59:22 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/19/2023 04:59:22 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/19/2023 05:57:24 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/19/2023 05:57:24 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/19/2023 05:57:24 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/19/2023 05:57:24 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/19/2023 05:57:24 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/19/2023 05:57:25 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/19/2023 05:57:25 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 05:58:05 PM - LoginPage - INFO: Element not appeared on the web page
+06/19/2023 05:58:05 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/19/2023 05:58:05 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/19/2023 05:58:08 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Quarterly')] and  locatorType: xpath
+06/19/2023 05:58:08 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Quarterly')] locatorType: xpath
+06/19/2023 05:58:08 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 05:58:39 PM - CompanyPage - INFO: Element not appeared on the web page
+06/19/2023 05:58:39 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Yearly')] and  locatorType: xpath
+06/19/2023 05:58:39 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Yearly')] locatorType: xpath
+06/19/2023 05:58:39 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 05:59:09 PM - CompanyPage - INFO: Element not appeared on the web page
+06/19/2023 05:59:15 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/19/2023 05:59:15 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/19/2023 08:25:42 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/19/2023 08:25:43 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/19/2023 08:25:43 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/19/2023 08:25:43 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/19/2023 08:25:43 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/19/2023 08:25:43 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/19/2023 08:25:43 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 08:26:21 PM - LoginPage - INFO: Element not appeared on the web page
+06/19/2023 08:26:22 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/19/2023 08:26:23 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/19/2023 08:26:26 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/19/2023 08:26:26 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/19/2023 08:26:26 PM - CompanyPage - INFO: Element found with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] and  locatorType: xpath
+06/19/2023 08:26:26 PM - CompanyPage - INFO: Clicked on element with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] locatorType: xpath
+06/19/2023 08:26:26 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/19/2023 08:26:26 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/19/2023 08:26:26 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/19/2023 08:26:57 PM - CompanyPage - INFO: Element not appeared on the web page
+06/19/2023 08:27:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/19/2023 08:27:03 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 03:55:49 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 03:55:49 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 03:55:49 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 03:55:49 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 03:55:49 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 03:55:49 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 03:55:49 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 03:56:42 PM - LoginPage - INFO: Element not appeared on the web page
+06/20/2023 03:56:42 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 03:56:42 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 03:56:46 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/20/2023 03:56:46 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/20/2023 03:56:46 PM - CompanyPage - INFO: Element found with locator: //button[@id='companyStep12'] and  locatorType: xpath
+06/20/2023 03:56:47 PM - CompanyPage - INFO: Clicked on element with locator: //button[@id='companyStep12'] locatorType: xpath
+06/20/2023 03:56:48 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 03:57:19 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 03:57:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 03:57:25 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 03:58:57 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 03:58:57 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 03:58:57 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 03:58:57 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 03:58:57 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 03:58:57 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 03:58:57 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 03:59:42 PM - LoginPage - INFO: Element not appeared on the web page
+06/20/2023 03:59:42 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 03:59:43 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 03:59:45 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/20/2023 03:59:46 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/20/2023 03:59:46 PM - CompanyPage - INFO: Element found with locator: //button[@id='companyStep12'] and  locatorType: xpath
+06/20/2023 03:59:46 PM - CompanyPage - INFO: Clicked on element with locator: //button[@id='companyStep12'] locatorType: xpath
+06/20/2023 03:59:46 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:00:17 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:00:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 04:00:23 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 04:04:05 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 04:04:05 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 04:04:05 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 04:04:05 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 04:04:05 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 04:04:05 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 04:04:05 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:04:57 PM - LoginPage - INFO: Element not appeared on the web page
+06/20/2023 04:04:57 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 04:04:57 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 04:05:00 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/20/2023 04:05:00 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/20/2023 04:05:00 PM - CompanyPage - INFO: Element found with locator: //button[@id='companyStep12'] and  locatorType: xpath
+06/20/2023 04:05:00 PM - CompanyPage - INFO: Clicked on element with locator: //button[@id='companyStep12'] locatorType: xpath
+06/20/2023 04:05:00 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:05:31 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:05:32 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Balance Sheet')] and  locatorType: xpath
+06/20/2023 04:05:35 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Balance Sheet')] locatorType: xpath
+06/20/2023 04:05:41 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 04:05:41 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 04:40:13 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 04:40:13 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 04:40:13 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 04:40:13 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 04:40:13 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 04:40:14 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 04:40:14 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:40:53 PM - LoginPage - INFO: Element appeared on the web page
+06/20/2023 04:40:53 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 04:40:54 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 04:40:56 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/20/2023 04:40:56 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/20/2023 04:40:57 PM - CompanyPage - INFO: Element found with locator: //button[@id='companyStep12'] and  locatorType: xpath
+06/20/2023 04:40:57 PM - CompanyPage - INFO: Clicked on element with locator: //button[@id='companyStep12'] locatorType: xpath
+06/20/2023 04:40:57 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:41:28 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:41:28 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Annual')] and  locatorType: xpath
+06/20/2023 04:41:28 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Annual')] locatorType: xpath
+06/20/2023 04:41:28 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Quarter')] and  locatorType: xpath
+06/20/2023 04:41:29 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Quarter')] locatorType: xpath
+06/20/2023 04:41:29 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:41:59 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:41:59 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Quarter')] and  locatorType: xpath
+06/20/2023 04:41:59 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Quarter')] locatorType: xpath
+06/20/2023 04:41:59 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Semi-Annual')] and  locatorType: xpath
+06/20/2023 04:42:00 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Semi-Annual')] locatorType: xpath
+06/20/2023 04:42:00 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:42:30 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:42:30 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Semi-Annual')] and  locatorType: xpath
+06/20/2023 04:42:31 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Semi-Annual')] locatorType: xpath
+06/20/2023 04:42:31 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Annual with interim')] and  locatorType: xpath
+06/20/2023 04:42:31 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Annual with interim')] locatorType: xpath
+06/20/2023 04:42:31 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:43:08 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:43:14 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 04:43:14 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 04:47:25 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 04:47:25 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 04:47:25 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 04:47:25 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 04:47:25 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 04:47:25 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 04:47:25 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:48:03 PM - LoginPage - INFO: Element not appeared on the web page
+06/20/2023 04:48:03 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 04:48:03 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 04:48:06 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/20/2023 04:48:06 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/20/2023 04:48:06 PM - CompanyPage - INFO: Element found with locator: //button[@id='companyStep12'] and  locatorType: xpath
+06/20/2023 04:48:07 PM - CompanyPage - INFO: Clicked on element with locator: //button[@id='companyStep12'] locatorType: xpath
+06/20/2023 04:48:07 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:48:37 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:48:37 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Annual')] and  locatorType: xpath
+06/20/2023 04:48:38 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Annual')] locatorType: xpath
+06/20/2023 04:48:38 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Quarter')] and  locatorType: xpath
+06/20/2023 04:48:38 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Quarter')] locatorType: xpath
+06/20/2023 04:48:38 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:49:09 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:49:09 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Quarter')] and  locatorType: xpath
+06/20/2023 04:49:09 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Quarter')] locatorType: xpath
+06/20/2023 04:49:09 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Semi-Annual')] and  locatorType: xpath
+06/20/2023 04:49:09 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Semi-Annual')] locatorType: xpath
+06/20/2023 04:49:09 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:49:40 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:49:40 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Semi-Annual')] and  locatorType: xpath
+06/20/2023 04:49:40 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Semi-Annual')] locatorType: xpath
+06/20/2023 04:49:40 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/20/2023 04:49:40 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/20/2023 04:49:40 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:50:11 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:50:11 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'LTM')] and  locatorType: xpath
+06/20/2023 04:50:11 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'LTM')] locatorType: xpath
+06/20/2023 04:50:11 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Annual with interim')] and  locatorType: xpath
+06/20/2023 04:50:11 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Annual with interim')] locatorType: xpath
+06/20/2023 04:50:11 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 04:50:54 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 04:51:00 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 04:51:00 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 05:19:20 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 05:19:21 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 05:19:21 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 05:19:21 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 05:19:21 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 05:19:21 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 05:19:21 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:20:02 PM - LoginPage - INFO: Element appeared on the web page
+06/20/2023 05:20:02 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 05:20:03 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 05:20:05 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Summary')] and  locatorType: xpath
+06/20/2023 05:20:05 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Summary')] locatorType: xpath
+06/20/2023 05:20:05 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Quarterly')] and  locatorType: xpath
+06/20/2023 05:20:06 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Quarterly')] locatorType: xpath
+06/20/2023 05:20:06 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:20:36 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:20:36 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Yearly')] and  locatorType: xpath
+06/20/2023 05:20:37 PM - CompanyPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Yearly')] locatorType: xpath
+06/20/2023 05:20:37 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:21:08 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:21:14 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 05:21:14 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 05:25:15 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 05:25:15 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 05:25:15 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 05:25:16 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 05:25:16 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 05:25:16 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 05:25:16 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:26:06 PM - LoginPage - INFO: Element not appeared on the web page
+06/20/2023 05:26:16 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 05:26:17 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 05:26:20 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Summary')] and  locatorType: xpath
+06/20/2023 05:26:20 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Summary')] locatorType: xpath
+06/20/2023 05:26:20 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Quarterly')] and  locatorType: xpath
+06/20/2023 05:26:20 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Quarterly')] locatorType: xpath
+06/20/2023 05:26:20 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:26:51 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:26:51 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Yearly')] and  locatorType: xpath
+06/20/2023 05:26:51 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Yearly')] locatorType: xpath
+06/20/2023 05:26:51 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:27:22 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:27:28 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 05:27:28 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 05:30:23 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 05:30:24 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 05:30:24 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 05:30:24 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 05:30:24 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 05:30:24 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 05:30:24 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:31:10 PM - LoginPage - INFO: Element appeared on the web page
+06/20/2023 05:31:10 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 05:31:10 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 05:31:13 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Summary')] and  locatorType: xpath
+06/20/2023 05:31:13 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Summary')] locatorType: xpath
+06/20/2023 05:31:13 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Quarterly')] and  locatorType: xpath
+06/20/2023 05:31:13 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Quarterly')] locatorType: xpath
+06/20/2023 05:31:13 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:31:43 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:31:43 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Yearly')] and  locatorType: xpath
+06/20/2023 05:31:44 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Yearly')] locatorType: xpath
+06/20/2023 05:31:44 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:32:14 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:32:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 05:32:20 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 05:34:29 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 05:34:29 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 05:34:30 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 05:34:30 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 05:34:30 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 05:34:30 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 05:34:30 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:35:08 PM - LoginPage - INFO: Element appeared on the web page
+06/20/2023 05:35:08 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 05:35:09 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 05:35:11 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Summary')] and  locatorType: xpath
+06/20/2023 05:35:11 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Summary')] locatorType: xpath
+06/20/2023 05:35:11 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Quarterly')] and  locatorType: xpath
+06/20/2023 05:35:12 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Quarterly')] locatorType: xpath
+06/20/2023 05:35:12 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:35:42 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:35:42 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Yearly')] and  locatorType: xpath
+06/20/2023 05:35:42 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Yearly')] locatorType: xpath
+06/20/2023 05:35:42 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:36:13 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:36:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 05:36:19 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 05:47:17 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 05:47:17 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 05:47:17 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 05:47:18 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 05:47:18 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 05:47:18 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 05:47:18 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:48:04 PM - LoginPage - INFO: Element appeared on the web page
+06/20/2023 05:48:04 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 05:48:04 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 05:48:07 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Summary')] and  locatorType: xpath
+06/20/2023 05:48:07 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Summary')] locatorType: xpath
+06/20/2023 05:48:07 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Quarterly')] and  locatorType: xpath
+06/20/2023 05:48:08 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Quarterly')] locatorType: xpath
+06/20/2023 05:48:08 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:48:39 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:48:39 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Yearly')] and  locatorType: xpath
+06/20/2023 05:48:39 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Yearly')] locatorType: xpath
+06/20/2023 05:48:39 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:49:10 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:49:16 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 05:49:16 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/20/2023 05:52:00 PM - LoginPage - INFO: Element not found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 05:52:00 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 05:52:23 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 05:52:23 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 05:52:23 PM - LoginPage - INFO: Element not found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 05:52:23 PM - LoginPage - INFO: Cannot click on the element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 05:52:23 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:52:23 PM - LoginPage - INFO: Element not appeared on the web page
+06/20/2023 05:52:23 PM - LoginPage - INFO: Element not found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 05:52:23 PM - LoginPage - INFO: Cannot click on the element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Element not found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Cannot click on the element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Element not found with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] and  locatorType: xpath
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Cannot click on the element with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] locatorType: xpath
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Element not found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Cannot click on the element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:52:25 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:54:06 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/20/2023 05:54:07 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/20/2023 05:54:07 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/20/2023 05:54:07 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/20/2023 05:54:07 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/20/2023 05:54:07 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/20/2023 05:54:07 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:54:43 PM - LoginPage - INFO: Element appeared on the web page
+06/20/2023 05:54:43 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/20/2023 05:54:43 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/20/2023 05:54:46 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/20/2023 05:54:47 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/20/2023 05:54:47 PM - CompanyPage - INFO: Element found with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] and  locatorType: xpath
+06/20/2023 05:54:47 PM - CompanyPage - INFO: Clicked on element with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] locatorType: xpath
+06/20/2023 05:54:47 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/20/2023 05:54:48 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/20/2023 05:54:48 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/20/2023 05:55:19 PM - CompanyPage - INFO: Element not appeared on the web page
+06/20/2023 05:55:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 05:55:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/20/2023 05:55:25 PM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/21/2023 10:46:39 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/21/2023 10:46:39 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/21/2023 10:46:39 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/21/2023 10:46:39 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/21/2023 10:46:39 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/21/2023 10:46:39 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/21/2023 10:46:39 AM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 10:47:19 AM - LoginPage - INFO: Element not appeared on the web page
+06/21/2023 10:47:20 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/21/2023 10:47:21 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/21/2023 10:47:24 AM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/21/2023 10:47:24 AM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/21/2023 10:47:24 AM - CompanyPage - INFO: Element found with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] and  locatorType: xpath
+06/21/2023 10:47:25 AM - CompanyPage - INFO: Clicked on element with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] locatorType: xpath
+06/21/2023 10:47:25 AM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/21/2023 10:47:25 AM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/21/2023 10:47:25 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 10:47:56 AM - CompanyPage - INFO: Element not appeared on the web page
+06/21/2023 10:48:02 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/21/2023 10:48:02 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/21/2023 10:48:02 AM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/21/2023 10:50:28 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/21/2023 10:50:28 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/21/2023 10:50:28 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/21/2023 10:50:28 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/21/2023 10:50:28 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/21/2023 10:50:28 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/21/2023 10:50:28 AM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 10:51:04 AM - LoginPage - INFO: Element not appeared on the web page
+06/21/2023 10:51:04 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/21/2023 10:51:04 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/21/2023 10:51:07 AM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/21/2023 10:51:07 AM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/21/2023 10:51:07 AM - CompanyPage - INFO: Element found with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] and  locatorType: xpath
+06/21/2023 10:51:08 AM - CompanyPage - INFO: Clicked on element with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] locatorType: xpath
+06/21/2023 10:51:08 AM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/21/2023 10:51:09 AM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/21/2023 10:51:09 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 10:51:39 AM - CompanyPage - INFO: Element not appeared on the web page
+06/21/2023 10:53:00 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/21/2023 10:53:00 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/21/2023 10:53:00 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/21/2023 10:53:00 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/21/2023 10:53:00 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/21/2023 10:53:00 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/21/2023 10:53:00 AM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 10:53:43 AM - LoginPage - INFO: Element not appeared on the web page
+06/21/2023 10:53:43 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/21/2023 10:53:44 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/21/2023 10:53:46 AM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/21/2023 10:53:46 AM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/21/2023 10:53:47 AM - CompanyPage - INFO: Element found with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] and  locatorType: xpath
+06/21/2023 10:53:47 AM - CompanyPage - INFO: Clicked on element with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] locatorType: xpath
+06/21/2023 10:53:47 AM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/21/2023 10:53:48 AM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/21/2023 10:53:48 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 10:54:18 AM - CompanyPage - INFO: Element not appeared on the web page
+06/21/2023 10:54:24 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/21/2023 10:54:24 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + page is ok
+06/21/2023 10:54:24 AM - TestStatus - INFO: test_bonds ### TEST SUCCESSFUL
+06/21/2023 02:07:29 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/21/2023 02:07:29 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/21/2023 02:07:29 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/21/2023 02:07:29 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/21/2023 02:07:29 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/21/2023 02:07:30 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/21/2023 02:07:30 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 02:08:13 PM - LoginPage - INFO: Element appeared on the web page
+06/21/2023 02:08:13 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/21/2023 02:08:13 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/21/2023 02:08:16 PM - CompanyPage - INFO: Element found with locator: //button[@class='btn'][5] and  locatorType: xpath
+06/21/2023 02:08:16 PM - CompanyPage - INFO: Clicked on element with locator: //button[@class='btn'][5] locatorType: xpath
+06/21/2023 02:08:16 PM - CompanyPage - INFO: Element found with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//img[1] and  locatorType: xpath
+06/21/2023 02:08:17 PM - CompanyPage - INFO: Clicked on element with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//img[1] locatorType: xpath
+06/21/2023 02:08:17 PM - CompanyPage - INFO: Element found with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//div/button[contains(text(),'Quarter')] and  locatorType: xpath
+06/21/2023 02:08:18 PM - CompanyPage - INFO: Cannot click on the element with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//div/button[contains(text(),'Quarter')] locatorType: xpath
+06/21/2023 02:10:27 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/21/2023 02:10:27 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/21/2023 02:10:27 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/21/2023 02:10:27 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/21/2023 02:10:27 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/21/2023 02:10:27 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/21/2023 02:10:27 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 02:11:00 PM - LoginPage - INFO: Element appeared on the web page
+06/21/2023 02:11:00 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/21/2023 02:11:01 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/21/2023 02:11:04 PM - CompanyPage - INFO: Element found with locator: //button[@class='btn'][5] and  locatorType: xpath
+06/21/2023 02:11:04 PM - CompanyPage - INFO: Clicked on element with locator: //button[@class='btn'][5] locatorType: xpath
+06/21/2023 02:11:04 PM - CompanyPage - INFO: Element found with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//img[1] and  locatorType: xpath
+06/21/2023 02:11:05 PM - CompanyPage - INFO: Clicked on element with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//img[1] locatorType: xpath
+06/21/2023 02:11:05 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 02:11:35 PM - CompanyPage - INFO: Element not appeared on the web page
+06/21/2023 02:11:35 PM - CompanyPage - INFO: Element found with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//div/button[contains(text(),'Quarter')] and  locatorType: xpath
+06/21/2023 02:11:36 PM - CompanyPage - INFO: Clicked on element with locator: //div[@id='debt_tab']//div[@class='col-4 p-0']//div/button[contains(text(),'Quarter')] locatorType: xpath
+06/21/2023 02:11:36 PM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/21/2023 02:12:06 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:14:38 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/22/2023 11:14:38 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/22/2023 11:14:38 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/22/2023 11:14:38 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/22/2023 11:14:38 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/22/2023 11:14:38 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/22/2023 11:14:38 AM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:15:23 AM - LoginPage - INFO: Element appeared on the web page
+06/22/2023 11:15:23 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/22/2023 11:15:24 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/22/2023 11:15:26 AM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/22/2023 11:15:27 AM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/22/2023 11:15:27 AM - CompanyPage - INFO: Element found with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] and  locatorType: xpath
+06/22/2023 11:15:27 AM - CompanyPage - INFO: Clicked on element with locator: //div[@id='companyStep11']//span[1]/span[1]/span[1]/span[1] locatorType: xpath
+06/22/2023 11:15:27 AM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/22/2023 11:15:28 AM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/22/2023 11:15:28 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:15:57 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:17:23 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/22/2023 11:17:24 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/22/2023 11:17:24 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/22/2023 11:17:24 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/22/2023 11:17:24 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/22/2023 11:17:24 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/22/2023 11:17:24 AM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:18:03 AM - LoginPage - INFO: Element appeared on the web page
+06/22/2023 11:18:03 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/22/2023 11:18:03 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/22/2023 11:18:06 AM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Filings')] and  locatorType: xpath
+06/22/2023 11:18:06 AM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Filings')] locatorType: xpath
+06/22/2023 11:18:07 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:18:07 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:18:27 AM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyStep17-results']/li[0] and  locatorType: xpath
+06/22/2023 11:18:27 AM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyStep17-results']/li[0] locatorType: xpath
+06/22/2023 11:18:27 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:18:57 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:18:57 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:18:57 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:19:17 AM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyStep17-results']/li[1] and  locatorType: xpath
+06/22/2023 11:19:17 AM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyStep17-results']/li[1] locatorType: xpath
+06/22/2023 11:19:17 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:19:48 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:19:48 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:19:48 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:19:48 AM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[2] and  locatorType: xpath
+06/22/2023 11:19:49 AM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[2] locatorType: xpath
+06/22/2023 11:19:49 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:20:20 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:20:20 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:20:20 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:20:20 AM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[3] and  locatorType: xpath
+06/22/2023 11:20:21 AM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[3] locatorType: xpath
+06/22/2023 11:20:21 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:20:51 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:20:51 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:20:51 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:20:52 AM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[4] and  locatorType: xpath
+06/22/2023 11:20:52 AM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[4] locatorType: xpath
+06/22/2023 11:20:52 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:21:23 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:37:13 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/22/2023 11:37:13 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/22/2023 11:37:13 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/22/2023 11:37:14 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/22/2023 11:37:14 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/22/2023 11:37:14 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/22/2023 11:37:14 AM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:37:55 AM - LoginPage - INFO: Element appeared on the web page
+06/22/2023 11:37:55 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/22/2023 11:37:55 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/22/2023 11:37:58 AM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Filings')] and  locatorType: xpath
+06/22/2023 11:37:58 AM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Filings')] locatorType: xpath
+06/22/2023 11:37:58 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:37:59 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:38:19 AM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyStep17-results']/li[0] and  locatorType: xpath
+06/22/2023 11:38:19 AM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyStep17-results']/li[0] locatorType: xpath
+06/22/2023 11:38:19 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:38:49 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:38:49 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:38:49 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:39:09 AM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyStep17-results']/li[1] and  locatorType: xpath
+06/22/2023 11:39:09 AM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyStep17-results']/li[1] locatorType: xpath
+06/22/2023 11:39:09 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:39:40 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:39:40 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:39:40 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:39:40 AM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[2] and  locatorType: xpath
+06/22/2023 11:39:40 AM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[2] locatorType: xpath
+06/22/2023 11:39:40 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:40:11 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:40:11 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:40:11 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:40:11 AM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[3] and  locatorType: xpath
+06/22/2023 11:40:12 AM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[3] locatorType: xpath
+06/22/2023 11:40:12 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:40:42 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 11:40:42 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 11:40:43 AM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 11:40:43 AM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[4] and  locatorType: xpath
+06/22/2023 11:40:43 AM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[4] locatorType: xpath
+06/22/2023 11:40:43 AM - CompanyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/22/2023 11:41:14 AM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:39:25 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/22/2023 04:39:26 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/22/2023 04:39:26 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/22/2023 04:39:26 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/22/2023 04:39:26 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/22/2023 04:39:26 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/22/2023 04:39:26 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:39:52 PM - LoginPage - INFO: Element not appeared on the web page
+06/22/2023 04:40:06 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/22/2023 04:40:09 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/22/2023 04:40:12 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Filings')] and  locatorType: xpath
+06/22/2023 04:40:12 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Filings')] locatorType: xpath
+06/22/2023 04:40:13 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:40:14 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:40:14 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[1] and  locatorType: xpath
+06/22/2023 04:40:15 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[1] locatorType: xpath
+06/22/2023 04:40:15 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:40:25 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:40:25 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:40:26 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:40:26 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[2] and  locatorType: xpath
+06/22/2023 04:40:26 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[2] locatorType: xpath
+06/22/2023 04:40:26 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:40:37 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:40:37 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:40:39 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:40:39 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[3] and  locatorType: xpath
+06/22/2023 04:40:40 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[3] locatorType: xpath
+06/22/2023 04:40:40 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:40:51 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:40:51 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:40:51 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:40:51 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[4] and  locatorType: xpath
+06/22/2023 04:40:51 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[4] locatorType: xpath
+06/22/2023 04:40:51 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:41:02 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:43:26 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/22/2023 04:43:27 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/22/2023 04:43:27 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/22/2023 04:43:27 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/22/2023 04:43:27 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/22/2023 04:43:27 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/22/2023 04:43:27 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:43:53 PM - LoginPage - INFO: Element not appeared on the web page
+06/22/2023 04:44:12 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/22/2023 04:44:18 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/22/2023 04:44:21 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Filings')] and  locatorType: xpath
+06/22/2023 04:44:21 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Filings')] locatorType: xpath
+06/22/2023 04:44:22 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:44:22 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:44:22 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[1] and  locatorType: xpath
+06/22/2023 04:44:23 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[1] locatorType: xpath
+06/22/2023 04:44:23 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:44:34 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:44:34 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:44:35 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:44:35 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[2] and  locatorType: xpath
+06/22/2023 04:44:35 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[2] locatorType: xpath
+06/22/2023 04:44:35 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:44:46 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:44:46 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:44:46 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:44:46 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[3] and  locatorType: xpath
+06/22/2023 04:44:46 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[3] locatorType: xpath
+06/22/2023 04:44:46 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:44:57 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:44:57 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:44:57 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:44:57 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[4] and  locatorType: xpath
+06/22/2023 04:44:58 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[4] locatorType: xpath
+06/22/2023 04:44:58 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:45:08 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:46:22 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/22/2023 04:46:22 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/22/2023 04:46:22 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/22/2023 04:46:23 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/22/2023 04:46:23 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/22/2023 04:46:23 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/22/2023 04:46:23 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:46:48 PM - LoginPage - INFO: Element not appeared on the web page
+06/22/2023 04:47:01 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/22/2023 04:47:04 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/22/2023 04:47:06 PM - CompanyPage - INFO: Element found with locator: //button[contains(text(),'Filings')] and  locatorType: xpath
+06/22/2023 04:47:06 PM - CompanyPage - INFO: Clicked on element with locator: //button[contains(text(),'Filings')] locatorType: xpath
+06/22/2023 04:47:06 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:47:07 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:47:07 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[1] and  locatorType: xpath
+06/22/2023 04:47:08 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[1] locatorType: xpath
+06/22/2023 04:47:08 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:47:18 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:47:18 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:47:19 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:47:19 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[2] and  locatorType: xpath
+06/22/2023 04:47:20 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[2] locatorType: xpath
+06/22/2023 04:47:20 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:47:30 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:47:30 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:47:30 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:47:30 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[3] and  locatorType: xpath
+06/22/2023 04:47:31 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[3] locatorType: xpath
+06/22/2023 04:47:31 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:47:42 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:47:42 PM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyStep17-container'] and  locatorType: xpath
+06/22/2023 04:47:42 PM - CompanyPage - INFO: Clicked on element with locator: //span[@id='select2-companyStep17-container'] locatorType: xpath
+06/22/2023 04:47:42 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyStep17-results']/li[4] and  locatorType: xpath
+06/22/2023 04:47:43 PM - CompanyPage - INFO: Clicked on element with locator: //ul[@id='select2-companyStep17-results']/li[4] locatorType: xpath
+06/22/2023 04:47:43 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:47:53 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:50:08 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/22/2023 04:50:09 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/22/2023 04:50:09 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/22/2023 04:50:09 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/22/2023 04:50:09 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/22/2023 04:50:09 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/22/2023 04:50:09 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:50:35 PM - LoginPage - INFO: Element not appeared on the web page
+06/22/2023 04:50:49 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/22/2023 04:50:53 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/22/2023 04:50:56 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:51:07 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:51:07 PM - CompanyPage - INFO: Element found with locator: //button[@fragment='financials_tab'] and  locatorType: xpath
+06/22/2023 04:51:07 PM - CompanyPage - INFO: Clicked on element with locator: //button[@fragment='financials_tab'] locatorType: xpath
+06/22/2023 04:51:07 PM - CompanyPage - INFO: Element found with locator: //button[@id='companyStep12'] and  locatorType: xpath
+06/22/2023 04:51:08 PM - CompanyPage - INFO: Clicked on element with locator: //button[@id='companyStep12'] locatorType: xpath
+06/22/2023 04:51:08 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:51:18 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:51:18 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Annual')] and  locatorType: xpath
+06/22/2023 04:51:18 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Annual')] locatorType: xpath
+06/22/2023 04:51:18 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Quarter')] and  locatorType: xpath
+06/22/2023 04:51:19 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Quarter')] locatorType: xpath
+06/22/2023 04:51:19 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:51:29 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:51:30 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Quarter')] and  locatorType: xpath
+06/22/2023 04:51:36 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Quarter')] locatorType: xpath
+06/22/2023 04:51:36 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Semi-Annual')] and  locatorType: xpath
+06/22/2023 04:51:36 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Semi-Annual')] locatorType: xpath
+06/22/2023 04:51:36 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:51:47 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:51:47 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'Semi-Annual')] and  locatorType: xpath
+06/22/2023 04:51:47 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'Semi-Annual')] locatorType: xpath
+06/22/2023 04:51:47 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'LTM')] and  locatorType: xpath
+06/22/2023 04:51:47 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'LTM')] locatorType: xpath
+06/22/2023 04:51:47 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:52:07 PM - CompanyPage - INFO: Element not appeared on the web page
+06/22/2023 04:52:07 PM - CompanyPage - INFO: Element found with locator: //span[contains(text(),'LTM')] and  locatorType: xpath
+06/22/2023 04:52:07 PM - CompanyPage - INFO: Clicked on element with locator: //span[contains(text(),'LTM')] locatorType: xpath
+06/22/2023 04:52:07 PM - CompanyPage - INFO: Element found with locator: //li[contains(text(),'Annual with interim')] and  locatorType: xpath
+06/22/2023 04:52:07 PM - CompanyPage - INFO: Clicked on element with locator: //li[contains(text(),'Annual with interim')] locatorType: xpath
+06/22/2023 04:52:07 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/22/2023 04:52:18 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 02:35:45 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/23/2023 02:35:45 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/23/2023 02:35:45 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/23/2023 02:35:45 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/23/2023 02:35:45 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/23/2023 02:35:46 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/23/2023 02:35:46 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 02:36:18 PM - LoginPage - INFO: Element not appeared on the web page
+06/23/2023 02:36:22 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/23/2023 02:36:25 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/23/2023 02:36:28 PM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/23/2023 02:36:28 PM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/23/2023 02:36:29 PM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/23/2023 02:36:29 PM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/23/2023 02:36:29 PM - CompanyPage - INFO: Element found with locator: //select[@id='companyDropdownMNAbenchmark'] and  locatorType: xpath
+06/23/2023 02:36:30 PM - CompanyPage - INFO: Cannot click on the element with locator: //select[@id='companyDropdownMNAbenchmark'] locatorType: xpath
+06/23/2023 02:36:50 PM - CompanyPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/23/2023 02:36:50 PM - CompanyPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/23/2023 02:36:58 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/23/2023 02:37:00 PM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/23/2023 02:37:00 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 02:37:10 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 02:56:13 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/23/2023 02:56:14 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/23/2023 02:56:14 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/23/2023 02:56:14 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/23/2023 02:56:14 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/23/2023 02:56:14 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/23/2023 02:56:14 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 02:56:40 PM - LoginPage - INFO: Element not appeared on the web page
+06/23/2023 02:56:59 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/23/2023 02:57:03 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/23/2023 02:57:05 PM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/23/2023 02:57:06 PM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/23/2023 02:57:06 PM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/23/2023 02:57:06 PM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/23/2023 02:57:06 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 02:57:06 PM - CompanyPage - INFO: Element appeared on the web page
+06/23/2023 02:57:06 PM - CompanyPage - INFO: Element found with locator: //select[@id='companyDropdownMNAbenchmark'] and  locatorType: xpath
+06/23/2023 02:57:07 PM - CompanyPage - INFO: Cannot click on the element with locator: //select[@id='companyDropdownMNAbenchmark'] locatorType: xpath
+06/23/2023 02:57:27 PM - CompanyPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/23/2023 02:57:27 PM - CompanyPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/23/2023 02:57:34 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/23/2023 02:57:36 PM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/23/2023 02:57:36 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 02:57:47 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 02:59:53 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/23/2023 02:59:53 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/23/2023 02:59:53 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/23/2023 02:59:53 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/23/2023 02:59:53 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/23/2023 02:59:54 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/23/2023 02:59:54 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:00:19 PM - LoginPage - INFO: Element not appeared on the web page
+06/23/2023 03:00:40 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/23/2023 03:00:41 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/23/2023 03:00:43 PM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/23/2023 03:00:43 PM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/23/2023 03:00:43 PM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/23/2023 03:00:44 PM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/23/2023 03:00:44 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:00:44 PM - CompanyPage - INFO: Element appeared on the web page
+06/23/2023 03:00:44 PM - CompanyPage - INFO: Element found with locator: //select[@id='companyDropdownMNAbenchmark'] and  locatorType: xpath
+06/23/2023 03:00:45 PM - CompanyPage - INFO: Cannot click on the element with locator: //select[@id='companyDropdownMNAbenchmark'] locatorType: xpath
+06/23/2023 03:00:45 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:01:07 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 03:01:27 PM - CompanyPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/23/2023 03:01:27 PM - CompanyPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/23/2023 03:01:47 PM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/23/2023 03:01:47 PM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/23/2023 03:01:47 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:01:57 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 03:14:41 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/23/2023 03:14:41 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/23/2023 03:14:41 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/23/2023 03:14:42 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/23/2023 03:14:42 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/23/2023 03:14:42 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/23/2023 03:14:42 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:15:09 PM - LoginPage - INFO: Element not appeared on the web page
+06/23/2023 03:15:31 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/23/2023 03:15:34 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/23/2023 03:15:37 PM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/23/2023 03:15:38 PM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/23/2023 03:15:38 PM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/23/2023 03:15:38 PM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/23/2023 03:15:38 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:15:39 PM - CompanyPage - INFO: Element appeared on the web page
+06/23/2023 03:15:40 PM - CompanyPage - INFO: Element found with locator: //select[@id='companyDropdownMNAbenchmark'] and  locatorType: xpath
+06/23/2023 03:15:43 PM - CompanyPage - INFO: Cannot click on the element with locator: //select[@id='companyDropdownMNAbenchmark'] locatorType: xpath
+06/23/2023 03:15:43 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:16:05 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 03:16:25 PM - CompanyPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/23/2023 03:16:25 PM - CompanyPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/23/2023 03:16:45 PM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/23/2023 03:16:45 PM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/23/2023 03:16:45 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:16:55 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 03:17:55 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/23/2023 03:17:55 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/23/2023 03:17:55 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/23/2023 03:17:56 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/23/2023 03:17:56 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/23/2023 03:17:56 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/23/2023 03:17:56 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:18:21 PM - LoginPage - INFO: Element not appeared on the web page
+06/23/2023 03:18:39 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/23/2023 03:18:42 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/23/2023 03:18:44 PM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/23/2023 03:18:44 PM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/23/2023 03:18:44 PM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/23/2023 03:18:45 PM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/23/2023 03:18:45 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:18:55 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 03:18:55 PM - CompanyPage - INFO: Element found with locator: //select[@id='companyDropdownMNAbenchmark'] and  locatorType: xpath
+06/23/2023 03:18:56 PM - CompanyPage - INFO: Cannot click on the element with locator: //select[@id='companyDropdownMNAbenchmark'] locatorType: xpath
+06/23/2023 03:18:56 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:19:07 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 03:19:07 PM - CompanyPage - INFO: Element found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/23/2023 03:19:08 PM - CompanyPage - INFO: Sent data on element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/23/2023 03:19:09 PM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/23/2023 03:19:10 PM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/23/2023 03:19:10 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 03:19:21 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 06:20:54 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/23/2023 06:20:54 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/23/2023 06:20:54 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/23/2023 06:20:55 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/23/2023 06:20:55 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/23/2023 06:20:55 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/23/2023 06:20:55 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 06:21:33 PM - LoginPage - INFO: Element not appeared on the web page
+06/23/2023 06:21:35 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/23/2023 06:21:36 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/23/2023 06:21:38 PM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/23/2023 06:21:38 PM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/23/2023 06:21:38 PM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/23/2023 06:21:39 PM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/23/2023 06:21:39 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 06:21:49 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 06:21:49 PM - CompanyPage - INFO: Element found with locator: //select[@id='companyDropdownMNAbenchmark'] and  locatorType: xpath
+06/23/2023 06:21:50 PM - CompanyPage - INFO: Cannot click on the element with locator: //select[@id='companyDropdownMNAbenchmark'] locatorType: xpath
+06/23/2023 06:21:50 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 06:22:01 PM - CompanyPage - INFO: Element not appeared on the web page
+06/23/2023 06:22:21 PM - CompanyPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/23/2023 06:22:21 PM - CompanyPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/23/2023 06:22:41 PM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/23/2023 06:22:41 PM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/23/2023 06:22:41 PM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/23/2023 06:22:52 PM - CompanyPage - INFO: Element not appeared on the web page
+06/26/2023 08:49:31 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 08:49:31 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 08:49:31 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 08:49:32 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 08:49:32 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 08:49:32 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 08:49:32 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 08:49:57 AM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 08:50:01 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 08:50:01 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 08:50:04 AM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/26/2023 08:50:04 AM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/26/2023 08:50:04 AM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/26/2023 08:50:04 AM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/26/2023 08:50:04 AM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 08:50:15 AM - CompanyPage - INFO: Element not appeared on the web page
+06/26/2023 08:50:15 AM - CompanyPage - INFO: Element found with locator: //select[@id='companyDropdownMNAbenchmark'] and  locatorType: xpath
+06/26/2023 08:50:16 AM - CompanyPage - INFO: Cannot click on the element with locator: //select[@id='companyDropdownMNAbenchmark'] locatorType: xpath
+06/26/2023 08:50:16 AM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 08:50:27 AM - CompanyPage - INFO: Element not appeared on the web page
+06/26/2023 08:50:47 AM - CompanyPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/26/2023 08:50:47 AM - CompanyPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/26/2023 08:50:48 AM - CompanyPage - INFO: Element found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/26/2023 08:50:54 AM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/26/2023 08:50:54 AM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 08:51:04 AM - CompanyPage - INFO: Element not appeared on the web page
+06/26/2023 09:05:15 AM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/26/2023 09:05:16 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/26/2023 09:05:16 AM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/26/2023 09:05:16 AM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/26/2023 09:05:16 AM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/26/2023 09:05:16 AM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/26/2023 09:05:16 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 09:05:48 AM - LoginPage - INFO: Element not appeared on the web page
+06/26/2023 09:05:53 AM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/26/2023 09:05:55 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/26/2023 09:05:57 AM - CompanyPage - INFO: Element found with locator: //span[@class='fs12 edit_benchmark'] and  locatorType: xpath
+06/26/2023 09:05:57 AM - CompanyPage - INFO: Clicked on element with locator: //span[@class='fs12 edit_benchmark'] locatorType: xpath
+06/26/2023 09:05:57 AM - CompanyPage - INFO: Element found with locator: //tbody/tr[2]/td[1]/span[1]/i[1] and  locatorType: xpath
+06/26/2023 09:05:58 AM - CompanyPage - INFO: Clicked on element with locator: //tbody/tr[2]/td[1]/span[1]/i[1] locatorType: xpath
+06/26/2023 09:05:58 AM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 09:06:08 AM - CompanyPage - INFO: Element not appeared on the web page
+06/26/2023 09:06:08 AM - CompanyPage - INFO: Element found with locator: //span[@id='select2-companyDropdownMNAbenchmark-container'] and  locatorType: xpath
+06/26/2023 09:06:09 AM - CompanyPage - INFO: Cannot click on the element with locator: //span[@id='select2-companyDropdownMNAbenchmark-container'] locatorType: xpath
+06/26/2023 09:06:09 AM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 09:06:20 AM - CompanyPage - INFO: Element not appeared on the web page
+06/26/2023 09:06:40 AM - CompanyPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/26/2023 09:06:40 AM - CompanyPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/26/2023 09:07:00 AM - CompanyPage - INFO: Element not found with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] and  locatorType: xpath
+06/26/2023 09:07:00 AM - CompanyPage - INFO: Cannot click on the element with locator: //ul[@id='select2-companyDropdownMNAbenchmark-results']//li[1] locatorType: xpath
+06/26/2023 09:07:00 AM - CompanyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/26/2023 09:07:11 AM - CompanyPage - INFO: Element not appeared on the web page

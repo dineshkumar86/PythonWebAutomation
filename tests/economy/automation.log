@@ -1,0 +1,22 @@
+06/29/2023 04:34:11 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/29/2023 04:34:11 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/29/2023 04:34:11 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/29/2023 04:34:11 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/29/2023 04:34:11 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/29/2023 04:34:11 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/29/2023 04:34:11 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:34:42 PM - LoginPage - INFO: Element appeared on the web page
+06/29/2023 04:34:42 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/29/2023 04:34:42 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/29/2023 04:34:45 PM - EconomyPage - INFO: Element found with locator: //li[contains(text(),'Economy')] and  locatorType: xpath
+06/29/2023 04:34:45 PM - EconomyPage - INFO: Clicked on element with locator: //li[contains(text(),'Economy')] locatorType: xpath
+06/29/2023 04:34:45 PM - EconomyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:35:16 PM - EconomyPage - INFO: Element not appeared on the web page
+06/29/2023 04:35:16 PM - EconomyPage - INFO: Element found with locator: //span//span[contains(text(),'GDP Annual Growth Rate (Quarterly)')] and  locatorType: xpath
+06/29/2023 04:35:16 PM - EconomyPage - INFO: Clicked on element with locator: //span//span[contains(text(),'GDP Annual Growth Rate (Quarterly)')] locatorType: xpath
+06/29/2023 04:35:16 PM - EconomyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:35:47 PM - EconomyPage - INFO: Element not appeared on the web page
+06/29/2023 04:35:47 PM - EconomyPage - INFO: Element found with locator: //span[@class='select2-results']/ul/li[1] and  locatorType: xpath
+06/29/2023 04:35:47 PM - EconomyPage - INFO: Clicked on element with locator: //span[@class='select2-results']/ul/li[1] locatorType: xpath
+06/29/2023 04:35:47 PM - EconomyPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:36:18 PM - EconomyPage - INFO: Element not appeared on the web page

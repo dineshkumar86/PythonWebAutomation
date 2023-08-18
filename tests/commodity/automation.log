@@ -1,0 +1,52 @@
+06/29/2023 04:02:33 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/29/2023 04:02:34 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/29/2023 04:02:34 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/29/2023 04:02:34 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/29/2023 04:02:34 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/29/2023 04:02:34 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/29/2023 04:02:34 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:03:10 PM - LoginPage - INFO: Element appeared on the web page
+06/29/2023 04:03:10 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/29/2023 04:03:10 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/29/2023 04:03:13 PM - CommodityPage - INFO: Element found with locator: //li[contains(text(),'Commodity')] and  locatorType: xpath
+06/29/2023 04:03:17 PM - CommodityPage - INFO: Clicked on element with locator: //li[contains(text(),'Commodity')] locatorType: xpath
+06/29/2023 04:03:17 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:03:48 PM - CommodityPage - INFO: Element not appeared on the web page
+06/29/2023 04:03:48 PM - CommodityPage - INFO: Element found with locator: //span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/29/2023 04:03:49 PM - CommodityPage - INFO: Cannot click on the element with locator: //span[contains(text(),'Select Currency')] locatorType: xpath
+06/29/2023 04:03:49 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:04:20 PM - CommodityPage - INFO: Element not appeared on the web page
+06/29/2023 04:04:40 PM - CommodityPage - INFO: Element not found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/29/2023 04:04:40 PM - CommodityPage - INFO: Cannot send data on the element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/29/2023 04:04:40 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:05:10 PM - CommodityPage - INFO: Element not appeared on the web page
+06/29/2023 04:05:14 PM - CommodityPage - INFO: Element found with locator: //span[@class='select2-results']/ul/li and  locatorType: xpath
+06/29/2023 04:05:22 PM - CommodityPage - INFO: Clicked on element with locator: //span[@class='select2-results']/ul/li locatorType: xpath
+06/29/2023 04:05:22 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:05:53 PM - CommodityPage - INFO: Element not appeared on the web page
+06/29/2023 04:14:48 PM - LoginPage - INFO: Element found with locator: //input[@type='email'] and  locatorType: xpath
+06/29/2023 04:14:48 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='email'] locatorType: xpath
+06/29/2023 04:14:48 PM - LoginPage - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+06/29/2023 04:14:48 PM - LoginPage - INFO: Sent data on element with locator: //input[@type='password'] locatorType: xpath
+06/29/2023 04:14:48 PM - LoginPage - INFO: Element found with locator: //button[contains(text(),'Login')] and  locatorType: xpath
+06/29/2023 04:14:48 PM - LoginPage - INFO: Clicked on element with locator: //button[contains(text(),'Login')] locatorType: xpath
+06/29/2023 04:14:48 PM - LoginPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:15:32 PM - LoginPage - INFO: Element appeared on the web page
+06/29/2023 04:15:32 PM - LoginPage - INFO: Element found with locator: //a[@class='introjs-skipbutton'] and  locatorType: xpath
+06/29/2023 04:15:33 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='introjs-skipbutton'] locatorType: xpath
+06/29/2023 04:15:36 PM - CommodityPage - INFO: Element found with locator: //li[contains(text(),'Commodity')] and  locatorType: xpath
+06/29/2023 04:16:04 PM - CommodityPage - INFO: Clicked on element with locator: //li[contains(text(),'Commodity')] locatorType: xpath
+06/29/2023 04:16:04 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:16:36 PM - CommodityPage - INFO: Element not appeared on the web page
+06/29/2023 04:16:36 PM - CommodityPage - INFO: Element found with locator: //span//span[contains(text(),'Select Currency')] and  locatorType: xpath
+06/29/2023 04:16:38 PM - CommodityPage - INFO: Clicked on element with locator: //span//span[contains(text(),'Select Currency')] locatorType: xpath
+06/29/2023 04:16:38 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:17:08 PM - CommodityPage - INFO: Element not appeared on the web page
+06/29/2023 04:17:08 PM - CommodityPage - INFO: Element found with locator: //body/span[1]/span[1]/span[1]/input[1] and  locatorType: xpath
+06/29/2023 04:17:08 PM - CommodityPage - INFO: Sent data on element with locator: //body/span[1]/span[1]/span[1]/input[1] locatorType: xpath
+06/29/2023 04:17:08 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:17:39 PM - CommodityPage - INFO: Element not appeared on the web page
+06/29/2023 04:17:39 PM - CommodityPage - INFO: Element found with locator: //span[@class='select2-results']/ul/li and  locatorType: xpath
+06/29/2023 04:17:56 PM - CommodityPage - INFO: Clicked on element with locator: //span[@class='select2-results']/ul/li locatorType: xpath
+06/29/2023 04:17:56 PM - CommodityPage - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/29/2023 04:18:27 PM - CommodityPage - INFO: Element not appeared on the web page
